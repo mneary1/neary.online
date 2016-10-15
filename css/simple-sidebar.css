@@ -63,11 +63,16 @@
 
 .sidebar-nav {
     position: absolute;
-    top: 210px;
+    top: 240px;
     width: 250px;
     margin: 0;
     padding: 0;
     list-style: none;
+}
+
+.sidebar-nav a i{
+    display: block;
+    padding-left: 100px;
 }
 
 .sidebar-nav li {
