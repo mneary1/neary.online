@@ -1,4 +1,4 @@
-<!-- #include virtual=header.shtml -->
+<!--#include virtual=header.shtml-->
 
 <!-- Home page -->
 <div class="row" id="home">
@@ -12,4 +12,4 @@
 <!-- /Home page -->
 
 
-<!-- #include virtual=footer.shtml -->
+<!--#include virtual=footer.shtml-->
