@@ -62,3 +62,47 @@
         <!-- Page Content -->
         <div id="page-content-wrapper">
             <div class="container-fluid" id="content">
+
+<!-- Home page -->
+<div class="row" id="home">
+    <div class="col-lg-12">
+        <p>My name is Michael. Welcome to my website :)</p>
+        <p>I am a graduate student at the University of Maryland, Baltimore County (UMBC).</p>
+        
+        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+    </div>                    
+</div>
+<!-- /Home page -->
+
+
+
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+                
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+
+    $("#rtoggle").click(function(e) {
+        document.getElementById("content").innerHTML='<object type="text/html" data="src/research.html" ></object>';
+    });
+
+    </script>
+
+</body>
+
+</html>
