@@ -1,0 +1,39 @@
+<!--#include virtual="header.shtml"-->
+<div id="page-content-wrapper">
+    <div class="container-fluid" id="content">
+        <div class="row" id="home">
+        <div class="col-lg-12">
+        <h1> Research Interests </h1>
+        
+        My main research focus so far has been computer science education. 
+        <br>I am interested in how to teach computer science concepts better,
+        and make the field more accessible to underpriviledged groups.
+        <br>Below are some research projects that I have worked on.<br><br>
+
+        </div>                    
+        </div>
+
+        <div class="row">
+
+        <div class="col-lg-4">
+        <h4> Thesis </h4>
+        Intelligent Tutoring Systems for Introductory Programming
+        </div>
+
+        <div class="col-lg-4">
+        <h4> CS Matters in MD </h4>
+        Develop curricula for AP CS Principles.
+        </div>
+
+        <div class="col-lg-4">
+        <h4> CATs </h4>
+        The goal of this project is to develop questions to assess cybersecurity knowledge. <br>
+        Paper Manuscript: <a href="research/cats_paper.pdf">here</a><br>
+        Project website: <a href="http://www.cisa.umbc.edu/cats/about.html">here</a>
+
+        </div>
+
+        </div>
+    </div> 
+</div>
+<!--#include virtual="footer.shtml"-->
