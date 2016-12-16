@@ -1,0 +1,46 @@
+/* custom css stlyings for my personal website */
+body {
+  background-color: #252525;
+  color: #999999;
+}
+.right-side-content {
+  background-color: none;
+}
+
+#side-list {
+  list-style: none;
+  margin-top: 30px;
+  font-family: 'Source Code Pro', monospace;
+}
+
+#my-face {
+  margin-top: 10px;
+}
+
+.main-page-content {
+  background-color: none;
+}
+
+h2 {
+  font-family: 'Source Code Pro', monospace;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #6ee0ef;
+}
+
+a:hover {
+  color: #FF9933;
+}
+
+#side-list a {
+  color: #99CCCC;
+}
+
+#side-list a:hover {
+  color: #FF9933;
+}
